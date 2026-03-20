@@ -1,8 +1,8 @@
 # Vineside - a microscopy dataset of anatomy of grapevine wood over 6 months
-*Authors: Célia Perrin, Yann Leva, Jean-Baptiste Courbot, and Romain Pierron.*
+*Authors: Célia Perrin, Jean-Baptiste Courbot, Yann Leva, and Romain Pierron.*
 
 This repository is part of the **Vineside** project:
-- The database is available on Zenodo.
+- The database is available on Zenodo: https://zenodo.org/records/18850060
 - The corresponding preprint, describing the experimental conditions and results, is online on BioRxiv.
 - The code for reproducing the numerical experiments in the paper will be available on Github: https://github.com/courbot/vineside
 
