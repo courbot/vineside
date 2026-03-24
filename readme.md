@@ -2,9 +2,9 @@
 *Authors: Célia Perrin, Jean-Baptiste Courbot, Yann Leva, and Romain Pierron.*
 
 This repository is part of the **Vineside** project:
-- The database is available on Zenodo: https://zenodo.org/records/18850060
-- The corresponding preprint, describing the experimental conditions and results, is online on BioRxiv.
-- The code for reproducing the numerical experiments in the paper will be available on Github: https://github.com/courbot/vineside
+- The database is available on [Zenodo](https://zenodo.org/records/18850060)
+- The corresponding preprint, describing the experimental conditions and results, is online on [BioRxiv](https://www.biorxiv.org/content/10.64898/2026.03.20.713180v1).
+- The code for reproducing the numerical experiments in the paper is available on this repository.
 
 ## Code description
 
